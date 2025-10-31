@@ -23,7 +23,7 @@ A React Native application that forwards all SMS messages received on your Andro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/RohanRajendraDalvi/SmsForwarder.git
+git clone <repository-url>
 cd SmsForwarder
 ```
 

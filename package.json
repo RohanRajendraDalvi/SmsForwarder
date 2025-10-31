@@ -14,7 +14,6 @@
     "react": "18.2.0",
     "react-native": "0.72.0",
     "@react-native-async-storage/async-storage": "^1.19.0",
-    "react-native-sms": "^1.9.0",
     "react-native-android-sms-listener": "^1.0.0"
   },
   "devDependencies": {
