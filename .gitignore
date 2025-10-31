@@ -1,0 +1,54 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+.expo/
+.expo-shared/
+
+# Android
+android/.gradle
+android/app/build
+android/build
+*.apk
+*.ap_
+*.aab
+
+# iOS
+ios/build/
+ios/Pods/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Bundler
+vendor/bundle/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Misc
+.env
+.env.local
+.env.*.local
